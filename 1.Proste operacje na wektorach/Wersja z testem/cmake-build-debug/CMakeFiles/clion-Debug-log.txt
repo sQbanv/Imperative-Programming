@@ -1,0 +1,24 @@
+"D:\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "D:\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\2 SEMESTR\PROGRAMOWANIE IMPERATYWNE\ĆWICZENIA\1.Proste operacje na wektorach\Wersja z testem" -B "D:\OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie\2 SEMESTR\PROGRAMOWANIE IMPERATYWNE\ĆWICZENIA\1.Proste operacje na wektorach\Wersja z testem\cmake-build-debug"
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+CMake Warning in D:/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/2 SEMESTR/PROGRAMOWANIE IMPERATYWNE/ĆWICZENIA/1.Proste operacje na wektorach/Wersja z testem/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt:
+  The object file directory
+
+    D:/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/2 SEMESTR/PROGRAMOWANIE IMPERATYWNE/ĆWICZENIA/1.Proste operacje na wektorach/Wersja z testem/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_267e9.dir/./
+
+  has 238 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/JetBrains/CLion 2022.3.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/2 SEMESTR/PROGRAMOWANIE IMPERATYWNE/ĆWICZENIA/1.Proste operacje na wektorach/Wersja z testem/cmake-build-debug

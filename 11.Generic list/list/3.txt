@@ -1,0 +1,3 @@
+3 2
+Xy, ABC, ab, abc,
+xY, ab - ab.
