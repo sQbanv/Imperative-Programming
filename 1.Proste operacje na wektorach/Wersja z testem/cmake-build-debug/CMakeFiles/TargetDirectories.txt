@@ -1,0 +1,3 @@
+D:/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/2 SEMESTR/PROGRAMOWANIE IMPERATYWNE/ĆWICZENIA/1.Proste operacje na wektorach/Wersja z testem/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/2 SEMESTR/PROGRAMOWANIE IMPERATYWNE/ĆWICZENIA/1.Proste operacje na wektorach/Wersja z testem/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OneDrive - Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie/2 SEMESTR/PROGRAMOWANIE IMPERATYWNE/ĆWICZENIA/1.Proste operacje na wektorach/Wersja z testem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

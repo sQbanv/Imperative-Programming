@@ -1,0 +1,13 @@
+3
+cba
+abc
+abc
+cba
+abc abc abc
+abc abc abc
+cba cba cba
+cba cba cba
+abc abc abc
+abc abc abc
+cba
+cba
